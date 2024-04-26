@@ -2,6 +2,10 @@
 Exploring analytically and visually the chaotic behaviour of a laser bouncing off the walls of an elliptcal white cell.
 In laser physics, a "white cell" is a mirror system that acts as a delay line for the laser beam. The beam enters the cell, bounces around on the mirrors, and eventually works its way back out
 
+## Motivating question
+Each time the laser beam hits the surface of the ellipse, it follows the usual law of reflection "angle of incidence equals angle of reflection." That is, both the incident and reflected beams make the same angle with the normal line at the point of incidence.
+The normal line is perpendicular to this tangent line at the point of incidence.
+#How many times does the beam hit the internal surface of the white cell before exiting given the initial hit coordinate and starting position for the beam as initial conditions??
 ## Project Overview
 
 This project explores the chaotic behavior of light inside an elliptic white cell, bouncing off the walls until it exits the ellipse. Despite the seemingly random paths that the laser beam can take, there is a surprising order and symmetry to the system that we can uncover through our simulation.
